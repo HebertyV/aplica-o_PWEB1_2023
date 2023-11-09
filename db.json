@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "nome": "teste",
+      "sobrenome": "teste",
+      "email": "teste@teste.com",
+      "dataNascimento": "2023-11-05T03:00:00.000Z",
+      "sexo": "Masculino",
+      "servico": "Assitência Social",
+      "profissao": "tester",
+      "endereco": "teste",
+      "id": 2
+    },
+    {
+      "nome": "oi1",
+      "sobrenome": "oi1",
+      "email": "oi",
+      "dataNascimento": "2023-11-22T03:00:00.000Z",
+      "sexo": "Feminino",
+      "servico": "Assistência Odontológica",
+      "profissao": "oi",
+      "endereco": "oioi",
+      "id": 3
+    },
+    {
+      "nome": "pP",
+      "sobrenome": "p",
+      "email": "p",
+      "dataNascimento": "2023-11-17T03:00:00.000Z",
+      "sexo": "Masculino",
+      "servico": "Assistência Educacional",
+      "profissao": "m",
+      "endereco": "x",
+      "id": 4
+    }
+  ]
+}
